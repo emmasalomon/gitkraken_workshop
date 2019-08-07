@@ -1,5 +1,6 @@
 # GitKraken Workshop
 Instructions for code snippets as a part of our GUI GitKraken workshop
+
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
 classes. We
